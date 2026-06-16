@@ -6,5 +6,5 @@ pluginManagement {
     }
 }
 dependencyResolutionManagement { repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS); repositories { google(); mavenCentral() } }
-rootProject.name = "SensorsProjectApp"
+rootProject.name = "SensorFusionLab_ChristopherWright"
 include(":app")

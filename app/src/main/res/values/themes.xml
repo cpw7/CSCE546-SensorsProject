@@ -1,7 +1,7 @@
 <resources>
-    <style name="AppTheme" parent="android:style/Theme.Material.Light.NoActionBar">
+    <style name="Theme.SensorFusionLab" parent="android:style/Theme.Material.Light.NoActionBar">
         <item name="android:fontFamily">sans</item>
         <item name="android:windowLightStatusBar">false</item>
-        <item name="android:colorAccent">#00695C</item>
+        <item name="android:statusBarColor">#73000A</item>
     </style>
 </resources>
