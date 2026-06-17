@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.cpw.sensorfusionlab"
+    namespace = "com.cpw.sensorbalancegame"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.cpw.sensorfusionlab"
+        applicationId = "com.cpw.sensorbalancegame"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
@@ -19,5 +19,8 @@ android {
         sourceCompatibility = JavaVersion.VERSION_1_8
         targetCompatibility = JavaVersion.VERSION_1_8
     }
-    kotlinOptions { jvmTarget = "1.8" }
+
+    kotlinOptions {
+        jvmTarget = "1.8"
+    }
 }

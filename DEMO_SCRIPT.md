@@ -1,10 +1,10 @@
-# Sensor Fusion Lab Demo Script
+# Demo Script
 
-1. Start the app and introduce it as a sensor fusion project, not a raw sensor display.
-2. Point out the sensor availability card.
-3. Tilt the phone left/right and forward/backward. Explain that the accelerometer is used for pitch and roll.
-4. Rotate the phone. Explain that the compass uses accelerometer + magnetometer together.
-5. Shake the phone. Show that the shake count increases and the background/challenge mode changes.
-6. Spin or rotate the phone quickly. Show that the gyroscope affects the motion classifier.
-7. Cover the light sensor or move near a light. Show the light classification changing.
-8. End on the fusion decision card, explaining that the app combines stability, lighting, motion, and heading into one report.
+1. Open the app and explain that sensor data controls a tilt-balance game.
+2. Show the blue ball and green bullseye.
+3. Tilt the emulator/phone and show the ball moving.
+4. Keep the ball in the target and show the score increasing.
+5. Move more aggressively and show stability decreasing.
+6. Show posture/session report: flat, vertical, angled, and active.
+7. Change light sensor if available and show the environment label.
+8. Press reset and show the game restarting.

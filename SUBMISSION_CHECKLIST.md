@@ -1,10 +1,9 @@
 # Submission Checklist
 
-- [ ] GitHub repo contains complete Android Studio project.
-- [ ] App runs on emulator or physical Android device.
-- [ ] Demo shows at least two sensors.
-- [ ] Demo shows more than raw sensor values.
-- [ ] Demo shows shake-triggered UI behavior.
-- [ ] Demo shows sensor fusion decision card.
-- [ ] Blackboard submission includes GitHub link.
-- [ ] Blackboard submission includes demo PDF/video.
+- GitHub repository link submitted to Blackboard
+- Demo document or video submitted
+- App launches in Android Studio
+- Demonstrates accelerometer-based tilt control
+- Demonstrates gyroscope/stability score
+- Demonstrates light sensor/environment label
+- Demonstrates posture/session report
