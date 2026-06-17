@@ -1,2 +1,0 @@
-com.cpw.sensorbalancegame:style/AppTheme = 0x7f020000
-com.cpw.sensorbalancegame:string/app_name = 0x7f010000
