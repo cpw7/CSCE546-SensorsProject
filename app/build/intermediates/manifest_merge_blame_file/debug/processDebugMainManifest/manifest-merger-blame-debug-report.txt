@@ -1,0 +1,45 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.cpw.sensorbalancegame"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="35" />
+10
+11    <application
+11-->C:\Users\wrigh\Downloads\SensorBalanceGame_ChristopherWright_FULL_REWORK\SensorBalanceGame_ChristopherWright\app\src\main\AndroidManifest.xml:2:5-16:19
+12        android:allowBackup="false"
+12-->C:\Users\wrigh\Downloads\SensorBalanceGame_ChristopherWright_FULL_REWORK\SensorBalanceGame_ChristopherWright\app\src\main\AndroidManifest.xml:5:9-36
+13        android:debuggable="true"
+14        android:extractNativeLibs="false"
+15        android:label="Tilt Balance Lab"
+15-->C:\Users\wrigh\Downloads\SensorBalanceGame_ChristopherWright_FULL_REWORK\SensorBalanceGame_ChristopherWright\app\src\main\AndroidManifest.xml:4:9-41
+16        android:supportsRtl="true"
+16-->C:\Users\wrigh\Downloads\SensorBalanceGame_ChristopherWright_FULL_REWORK\SensorBalanceGame_ChristopherWright\app\src\main\AndroidManifest.xml:6:9-35
+17        android:testOnly="true"
+18        android:theme="@style/AppTheme" >
+18-->C:\Users\wrigh\Downloads\SensorBalanceGame_ChristopherWright_FULL_REWORK\SensorBalanceGame_ChristopherWright\app\src\main\AndroidManifest.xml:3:9-40
+19        <activity
+19-->C:\Users\wrigh\Downloads\SensorBalanceGame_ChristopherWright_FULL_REWORK\SensorBalanceGame_ChristopherWright\app\src\main\AndroidManifest.xml:7:9-15:20
+20            android:name="com.cpw.sensorbalancegame.MainActivity"
+20-->C:\Users\wrigh\Downloads\SensorBalanceGame_ChristopherWright_FULL_REWORK\SensorBalanceGame_ChristopherWright\app\src\main\AndroidManifest.xml:8:13-41
+21            android:exported="true"
+21-->C:\Users\wrigh\Downloads\SensorBalanceGame_ChristopherWright_FULL_REWORK\SensorBalanceGame_ChristopherWright\app\src\main\AndroidManifest.xml:10:13-36
+22            android:screenOrientation="portrait" >
+22-->C:\Users\wrigh\Downloads\SensorBalanceGame_ChristopherWright_FULL_REWORK\SensorBalanceGame_ChristopherWright\app\src\main\AndroidManifest.xml:9:13-49
+23            <intent-filter>
+23-->C:\Users\wrigh\Downloads\SensorBalanceGame_ChristopherWright_FULL_REWORK\SensorBalanceGame_ChristopherWright\app\src\main\AndroidManifest.xml:11:13-14:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->C:\Users\wrigh\Downloads\SensorBalanceGame_ChristopherWright_FULL_REWORK\SensorBalanceGame_ChristopherWright\app\src\main\AndroidManifest.xml:12:17-69
+24-->C:\Users\wrigh\Downloads\SensorBalanceGame_ChristopherWright_FULL_REWORK\SensorBalanceGame_ChristopherWright\app\src\main\AndroidManifest.xml:12:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->C:\Users\wrigh\Downloads\SensorBalanceGame_ChristopherWright_FULL_REWORK\SensorBalanceGame_ChristopherWright\app\src\main\AndroidManifest.xml:13:17-77
+26-->C:\Users\wrigh\Downloads\SensorBalanceGame_ChristopherWright_FULL_REWORK\SensorBalanceGame_ChristopherWright\app\src\main\AndroidManifest.xml:13:27-74
+27            </intent-filter>
+28        </activity>
+29    </application>
+30
+31</manifest>
